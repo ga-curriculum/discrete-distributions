@@ -5,8 +5,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Random Variables and Discrete Distributions slide deck | [Link](./tbd.pdf) |
+| Lesson | Random Variables and Discrete Distributions slide deck | [Link](./discrete-distributions-lesson.pdf) |
 | Notebook | Discrete Distributions | [Link](./starter-code.ipynb)|
+| Reference | Discrete Distributions Flash Cards | [Link](./discrete-flash-cards.pdf) |
 
 > **Dataset description:** Simulated Data
 

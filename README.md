@@ -5,7 +5,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Random Variables and Discrete Distributions slide deck | [Link](./discrete-distributions-lesson.pdf) |
+| Slides | Random Variables and Discrete Distributions Deck | [Link](./slides.pdf) |
 | Notebook | Discrete Distributions | [Link](./starter-code.ipynb)|
 | Reference | Discrete Distributions Flash Cards | [Link](./discrete-flash-cards.pdf) |
 
@@ -16,11 +16,11 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-
-1. Define distribution and random variable.
-2. Describe the difference between discrete and continuous random variables.
-3. Understand the difference between probability mass functions (pmfs) and cumulative distribution functions (CDFs).
-4. Give examples of the following distributions: Discrete Uniform, Bernoulli, Binomial, and Poisson.
+- Define distribution and random variable.
+- Describe the difference between discrete and continuous random variables.
+- Describe expected value and variance of a random variable.
+- Use probability mass functions (pmfs) and cumulative distribution functions (CDFs) to find probabilities of events.
+- Describe and give examples of when to use the following distributions: Discrete Uniform, Bernoulli, Binomial, and Poisson.
 
 ---
 
